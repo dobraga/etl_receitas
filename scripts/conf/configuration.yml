@@ -1,0 +1,14 @@
+LOCAL_FILES: E:/GoogleDrive/projects/andamento/receitas/
+DIR_SAIDA: saida
+DIR_FETCHER: scripts/fetcher
+
+DIR_WEBDRIVER: C:/Users/dobraga/chromedriver.exe
+
+DIR_SQL: scripts/sql
+
+USER_SQL: python
+PASSWORD_SQL: python
+DATABASE_SQL: postgres
+DBNAME_SQL: receitas
+HOST_SQL: localhost
+PORT_SQL: 5432
