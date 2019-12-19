@@ -1,4 +1,4 @@
-from ..sql import SQLEngine
+from .sqlengine import SQLEngine
 
 class Loader():
     def __init__(self, ctx, sqlengine):

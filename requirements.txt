@@ -1,0 +1,4 @@
+mysqlclient
+PyYAML
+scrapy
+selenium

@@ -2,8 +2,9 @@ from os.path import splitext
 
 from scripts.conf import Context
 from scripts.fetcher import Fetcher
-from scripts.sql import SQLEngine
+from scripts.utils.sqlengine import SQLEngine
 from scripts.utils.loader import Loader
+
 
 class Workflow():
     def __init__(self):

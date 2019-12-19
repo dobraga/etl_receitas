@@ -6,9 +6,8 @@ DIR_WEBDRIVER: C:/Users/dobraga/chromedriver.exe
 
 DIR_SQL: scripts/sql
 
-USER_SQL: python
-PASSWORD_SQL: python
-DATABASE_SQL: postgres
-DBNAME_SQL: receitas
-HOST_SQL: localhost
-PORT_SQL: 5432
+USER_SQL: root
+PASSWORD_SQL: 123
+DATABASE_SQL: receitas
+HOST_SQL: db
+PORT_SQL: 3306
